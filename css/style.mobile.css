@@ -1,0 +1,99 @@
+/* mobile.header */
+header nav h1 {
+    float: none;
+    padding: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
+header nav ul {
+    list-style: none;
+    float: none;
+    text-align: center;
+}
+header nav ul li {
+    float: none;
+}
+/* vp.mobile */
+.vp-content{
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    height: auto;
+    
+    
+}
+.vp-content h1{
+    
+    font-size: 30px;
+    padding: 0 20px;
+}
+.vp-content p{
+    margin-bottom: 100px;
+    margin-top: 30px;
+    padding: 0 20px;
+}
+/* feature.mobile */
+.container {
+    display:block;
+    width: 100%;
+    margin: auto;
+}
+.features {
+    padding: 50px 10px 30px 10px;
+}
+.feature {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+/* reservation */
+.reservation {
+    padding: 50px 10px 30px 10px;
+}
+/* where.mobile */
+.container-0 {
+    padding: 70px 10px 30px 10px;
+    width: auto;
+    height: auto;
+    display: block;
+}
+.image-map {
+    width: 100%;
+    height: 300px;
+}
+.container-1 {
+    padding-top: 30px;
+    margin-bottom: 20px;
+
+}
+/* contact.mobile */
+.contact-0 {
+    height: auto;
+    padding: 70px 20px 30px 20px;
+    width: auto;
+}
+.contact-0 form {
+    width: auto;
+    margin: auto;
+    display: block;
+}
+.contact .contact-0 form input {
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.contact .contact-0 form label {
+    display: block;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.contact-h {
+    font-weight: 300;
+}
+.contact .contact-0 form textarea {
+    width: 250px;
+    height: 70px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
